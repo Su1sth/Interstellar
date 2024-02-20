@@ -1,7 +1,6 @@
 <div align="center">
     <h1>Interstellar Proxy</h1>
 </div>
-
 <p>Interstellar is a popular web proxy, serving over 7 million users since 2023.</p>
 
 ### Join Our [Discord Community](https://discord.gg/interstellar)
